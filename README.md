@@ -1,7 +1,6 @@
 ## I am Layhok.
 
 ```
-yaml*
 name: Layhok
 located_in: Phnom Penh, Cambodia.
 current_job: Student
